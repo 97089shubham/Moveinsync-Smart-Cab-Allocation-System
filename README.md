@@ -38,5 +38,5 @@ This project includes a cab allocation system implemented in C++ and Python. The
 
 The other two files in the project are included to demonstrate specific algorithms:
 
-- **Shortest Path Algorithm:** Demonstrates the method for finding the shortest path.
-- **Nearest Cab Algorithm:** Shows how to identify the cabs that are closest to an employee.
+- **Path Finder:** Demonstrates the method for finding the shortest path.
+- **Cab Search:** Shows how to identify the cabs that are closest to an employee.
